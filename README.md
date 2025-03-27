@@ -22,7 +22,14 @@
 ## Overview
 This project focuses on real-time **Ather Electric Scooter Detection** using **YOLOv8**, a state-of-the-art deep learning model for object detection. The system is designed to process live webcam feed, detect Ather scooters, and display bounding boxes along with confidence scores.
 
+
+![Screenshot from 2025-03-27 19-51-53](https://github.com/user-attachments/assets/9c2ed141-30dc-4140-8f2b-79db059c36ac)
+
+
+![Screenshot from 2025-03-27 19-49-11](https://github.com/user-attachments/assets/83ee50a2-a565-461e-a68e-69df93d59ec5)
+
 ## Features
+
 - **Real-time Object Detection**: Uses a webcam to detect Ather scooters in real-time.
 - **High Accuracy**: Trained on a curated dataset using **YOLOv8** for precise detection.
 - **Optimized Performance**: Utilizes **OpenCV** and **PyTorch** for efficient processing.
