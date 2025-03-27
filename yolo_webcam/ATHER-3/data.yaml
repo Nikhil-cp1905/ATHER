@@ -1,0 +1,12 @@
+names:
+- objects
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: ather-hy9he
+  url: https://universe.roboflow.com/jarivs/ather-hy9he/dataset/3
+  version: 3
+  workspace: jarivs
+test: ../test/images
+train: ../train/images
+val: ../valid/images
